@@ -1037,6 +1037,7 @@ fill: var(--white-color);
 .modal-form-button:hover,
 .modal-form-button:focus {
   background-color: #188CE8;
+  outline: none;
 }
 
 /* ___________FOOTER-SUBMIT_________ */
@@ -1067,6 +1068,10 @@ fill: var(--white-color);
   letter-spacing: 0.06em;
 
   border: none;
+}
+
+.submit-form-btn:focus {
+  outline: none;
 }
 
 .submit-input {
