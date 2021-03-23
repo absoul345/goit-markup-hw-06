@@ -192,6 +192,13 @@ img {
   color: var(--accent-color);
 }
 
+.site-nav a.link.current::after {
+  opacity: 1;
+}
+
+
+
+
 /* ______________Contacts_____________ */
 .contacts-title {
   color: var(--primery-text-color);
