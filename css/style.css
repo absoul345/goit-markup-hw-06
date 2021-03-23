@@ -1077,6 +1077,8 @@ fill: var(--white-color);
   border-radius: 4px;
   letter-spacing: 0.06em;
 
+  cursor: pointer;
+
   border: none;
 }
 
