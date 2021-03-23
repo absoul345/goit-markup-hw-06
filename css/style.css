@@ -654,6 +654,7 @@ fill: var(--white-color);
 
   padding-top: 60px;
   padding-bottom: 60px;
+
 }
 
 .footer-flex {
@@ -666,6 +667,8 @@ fill: var(--white-color);
 
 .address {
   color: var(--white-color);
+
+  width: 231px;
 
   margin-bottom: 9px;
 
@@ -690,7 +693,7 @@ fill: var(--white-color);
 
 .footer-social-section {
   display: block;
-  margin: 72px 0px 72px 90px;
+  margin: 72px 0px 72px 70px;
 }
 
 .footer-social-list {
@@ -1082,7 +1085,7 @@ fill: var(--white-color);
 }
 
 .submit-input {
-  width: 385px;
+  width: 358px;
   height: 50px;
 
   margin-right: 12px;
